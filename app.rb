@@ -14,7 +14,7 @@ class CounterApp < Sinatra::Base
   post '/increment' do
     @counter.increment
     @counter.time
-    redirect '/'
+    redirect '/' 
   end
 
   post '/decrement' do

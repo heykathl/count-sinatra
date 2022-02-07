@@ -15,4 +15,4 @@ describe Counter do
       expect(counter.count).to eq 1
     end
   end
-end
+end 

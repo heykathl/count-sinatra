@@ -15,7 +15,7 @@ feature "increment the count" do
     expect(page).to have_content Time.now
   end
 end
-
+ 
 feature "decrement the count" do
   scenario "click the Decrement button and see the number decrement" do
     visit("/")

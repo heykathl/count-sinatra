@@ -13,3 +13,4 @@ feature "serve web app" do
     expect(page).to have_content Time.now
   end
 end
+ 

@@ -10,7 +10,7 @@ This is a counter web app built in Ruby using Sinatra and Capybara.
 
 # How to run the tests
 1. Clone this repository
-2. `cd` into the cloned directory
+2. `cd` into the cloned directory 
 3. Run `bundle` to install dependencies
 4. Run `rspec`
 
